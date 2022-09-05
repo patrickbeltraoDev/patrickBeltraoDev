@@ -15,7 +15,7 @@
   <img align="center" alt="Patrick-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 <div> 
-  <a href="linkedin.com/in/patrick-thiago-martins-beltrão-637755188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/patrick-thiago-martins-beltrão-637755188" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
   
   
